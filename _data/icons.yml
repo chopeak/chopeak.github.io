@@ -19,7 +19,7 @@ mastodon:         # e.g. "fostodon.org/@sam"
 matrix:           # e.g. "@sam:matrix.org"
 medium:
 patreon:
-phone: 185 8109 8931           # e.g. "+11111111111"
+phone:            # e.g. "+11111111111"
 pinterest:
 reddit:
 soundcloud:

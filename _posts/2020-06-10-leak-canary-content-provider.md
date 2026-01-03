@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LeakCanary 2 初始化方式分析<br>——ContentProvider 妙用
+title: LeakCanary 2 初始化方式分析——ContentProvider 妙用
 tags: [Android]
 ---
 

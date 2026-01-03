@@ -1,6 +1,6 @@
 # My Blog
 
-[ebnbin.dev](https://ebnbin.dev/)
+[chopeak.com](https://chopeak.com/)
 
 > Powered by [Jekyll](https://jekyllrb.com/) with [Type on Strap](https://github.com/sylhare/Type-on-Strap)
 

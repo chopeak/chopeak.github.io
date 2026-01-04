@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 技术让梦想更伟大
-tags: [Dreams][AI]
+tags: [Dreams,AI]
 ---
 
 # 我的编程学习之旅启程：搭建博客与未来计划

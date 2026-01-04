@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 技术让梦想更伟大
+title: C语言开发环境搭建指南
 tags: [C/C++,AI,VS Code]
 ---
 

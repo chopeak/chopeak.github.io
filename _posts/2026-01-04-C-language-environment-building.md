@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 工欲善其事必先利其器
+title: 欲善其事 先利其器
 tags: [C/C++,AI,VS Code]
 ---
 

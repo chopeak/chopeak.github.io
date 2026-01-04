@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C语言开发环境搭建指南
+title: 工欲善其事必先利其器
 tags: [C/C++,AI,VS Code]
 ---
 
